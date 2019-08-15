@@ -1,15 +1,3 @@
 # The Georgetown University Air Quality Project
 
-Documentation, instructions, and guidelines
-
-## The Project
-
-```
-...
-```
-
-## Contributing
-
-```
-...
-```
+![GUAQ Logo](images/guaq-logo.png)
