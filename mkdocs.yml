@@ -1,4 +1,4 @@
-site_name: GUAQ Docs
+site_name: GUAQ Documentation
 nav:
   - Home: index.md
   - About: about.md
@@ -6,6 +6,6 @@ theme:
   name: 'material'
   palette:
     primary: 'Blue Grey'
-    accent: 'Light Green'
+    accent: 'Green'
   logo: 'images/logo.png'
   favicon: 'images/favicon.ico'
