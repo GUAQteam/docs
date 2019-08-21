@@ -1,3 +1,3 @@
-# The Georgetown University Air Quality Project
+# The GUAQ Initiative
 
 ![GUAQ Logo](images/guaq-logo.png)
