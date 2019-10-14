@@ -2,7 +2,6 @@ site_name: GUAQ Documentation
 nav:
   - Home: index.md
   - Instructions: instructions.md
-  - About: about.md
 theme:
   name: 'material'
   palette:
