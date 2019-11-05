@@ -99,7 +99,7 @@ TS_KEY = "THINGSPEAKWRITEKEY"
 SLEEP = 60 * 1000
 
 # Capacitive Touch Parameters
-TOUCH_PIN = 14
+TOUCH_PIN = 13
 TOUCH_THRESHOLD = 100
 
 # Enable Debugging Statements
@@ -158,8 +158,8 @@ While the GUAQ team has developed a web-based, network file transfer tool, this
 capability has not been fully tested and documented. For the current release, a
 USB serial file transfer is required.
 
-Upgrade mode is enabled by sensing touch on Pin 14 of the GUAQ processor.
-Placing a finger on Pin 14 of the shield for 10 seconds while attaching GUAQ to
+Upgrade mode is enabled by sensing touch on Pin 13 of the GUAQ processor.
+Placing a finger on Pin 13 of the shield for 10 seconds while attaching GUAQ to
 the laptop/computer will put GUAQ into upgrade mode.
 
 ![Upgrade Mode](images/instructions/upgrade_pin.jpg)
