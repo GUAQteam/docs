@@ -1,6 +1,6 @@
 site_name: The GUAQ Initiative
 site_description: Documentation for the GUAQ Project
-site_url: https://guaqteam.github.io/docs/
+site_url: https://guaq.org/
 
 nav:
   - Device Configuration: configuration.md
