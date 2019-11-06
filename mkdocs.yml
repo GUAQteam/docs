@@ -1,7 +1,7 @@
 site_name: GUAQ Documentation
 nav:
   - Home: index.md
-  - Instructions: instructions.md
+  - Device Configuration: configuration.md
 theme:
   name: 'material'
   palette:

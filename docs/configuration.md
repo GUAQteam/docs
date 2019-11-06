@@ -1,6 +1,6 @@
-# Instructions
+# Device Configuration
 
-## Version 905 Upgrade Instructions
+## Upgrade Instructions
 
 ### Prerequisites
 
