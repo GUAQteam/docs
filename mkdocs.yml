@@ -1,7 +1,10 @@
-site_name: GUAQ Documentation
+site_name: The GUAQ Initiative
+site_description: Documentation for the GUAQ Project
+site_url: https://guaqteam.github.io/docs/
+
 nav:
-  - Home: index.md
   - Device Configuration: configuration.md
+
 theme:
   name: 'material'
   palette:
@@ -9,3 +12,14 @@ theme:
     accent: 'Green'
   logo: 'images/logo.png'
   favicon: 'images/favicon.ico'
+  language: 'en'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/guaqteam'
+    - type: 'instagram'
+      link: 'https://instagram.com/guaqteam'
